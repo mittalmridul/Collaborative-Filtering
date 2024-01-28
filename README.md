@@ -5,7 +5,6 @@ This Jupyter notebook is dedicated to exploring and implementing collaborative f
 
 ## Contents
 - Introduction to Collaborative Filtering
-- [Other sections can be added based on the actual content of the notebook]
 
 ## Installation and Usage
 To use this notebook:
@@ -17,4 +16,4 @@ To use this notebook:
 Contributions to this notebook are welcome! Please feel free to submit pull requests or issues to improve the code or documentation.
 
 ## License
-This project is licensed under [appropriate license name]. Please see the LICENSE file for more details.
+This project is licensed under MIT open Licence. Please see the LICENSE file for more details.
